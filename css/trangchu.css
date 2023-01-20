@@ -1,0 +1,128 @@
+body{
+    background-color: #7286D3;
+}
+#tieude {
+    text-align: center;
+    color: #13005A;
+    text-shadow: #00337C 2px 2px 3px;
+}
+#slogan{
+    text-align: center;
+    color: #13005A;
+    text-shadow: #00337C 2px 2px 3px;
+}
+#search{
+    text-align: right;
+}
+.logo{
+    text-align: center;
+}
+.tuychon{
+    text-align: center;
+}
+.desuat{
+    text-indent: 200px;
+}
+#box{
+    margin: 0 0 0 175px;
+    width: 1140px;
+    height: 700px;
+    background-color: #8EA7E9;
+    border: 2px solid #1C82AD;
+}
+#boxinside{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: 40px 0 0 40px;
+}
+#boxinside1{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 260px;
+}
+#boxinside2{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 480px;
+}
+#boxinside3{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 700px;
+}
+#boxinside4{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 920px;
+}
+#boxinside5{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: 80px 0 0 40px;
+}
+#boxinside6{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 260px;
+}
+#boxinside7{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 480px;
+}
+#boxinside8{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 700px;
+}
+#boxinside9{
+    width: 180px;
+    height: 250px;
+    background-color: black;
+    margin: -250px 0 0 920px;
+}
+#box1{
+    margin: 240px 0 0 -10px;
+    width: 1510px;
+    height: 300px;
+    background-color: #8EA7E9;
+}
+#ten1{
+    text-align: center;
+}
+#ten2{
+    text-align: center;
+}
+#ten3{
+    text-align: center;
+}
+#ten4{
+    text-align: center;
+}
+#ten5{
+    text-align: center;
+}
+#ten6{
+    text-align: center;
+}
+#ten7{
+    text-align: center;
+}
+#ten8{
+    text-align: center;
+}
+#ten9{
+    text-align: center;
+}
+#ten10{
+    text-align: center;
+}
